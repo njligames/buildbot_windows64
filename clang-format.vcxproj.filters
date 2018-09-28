@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\CMakeFiles\91cdb6f90dc44083d79ab2c753331760\clang-format.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\work\temp_jim\test_project_repo\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\CMakeFiles\clang-format" />
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\.clang-format" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{396F3787-0477-3ABA-94D8-EA4D5B461A1C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

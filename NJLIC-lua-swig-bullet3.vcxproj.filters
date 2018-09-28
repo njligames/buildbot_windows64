@@ -1,0 +1,828 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig\lua\Windows\bullet3LUA_wrap.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\bullet3.i">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\work\temp_jim\test_project_repo\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\BroadphaseCollision\btAxisSweep3.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\BroadphaseCollision</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\BroadphaseCollision\btBroadphaseInterface.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\BroadphaseCollision</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\BroadphaseCollision\btBroadphaseProxy.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\BroadphaseCollision</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\BroadphaseCollision\btCollisionAlgorithm.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\BroadphaseCollision</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\BroadphaseCollision\btDbvt.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\BroadphaseCollision</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\BroadphaseCollision\btDbvtBroadphase.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\BroadphaseCollision</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\BroadphaseCollision\btDispatcher.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\BroadphaseCollision</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\BroadphaseCollision\btMultiSapBroadphase.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\BroadphaseCollision</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\BroadphaseCollision\btOverlappingPairCache.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\BroadphaseCollision</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\BroadphaseCollision\btOverlappingPairCallback.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\BroadphaseCollision</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\BroadphaseCollision\btQuantizedBvh.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\BroadphaseCollision</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\BroadphaseCollision\btSimpleBroadphase.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\BroadphaseCollision</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch\SphereTriangleDetector.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch\btActivatingCollisionAlgorithm.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch\btBox2dBox2dCollisionAlgorithm.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch\btBoxBoxCollisionAlgorithm.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch\btBoxBoxDetector.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch\btCollisionConfiguration.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch\btCollisionCreateFunc.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch\btCollisionDispatcher.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch\btCollisionObject.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch\btCollisionObjectWrapper.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch\btCollisionWorld.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch\btCompoundCollisionAlgorithm.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch\btCompoundCompoundCollisionAlgorithm.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch\btConvex2dConvex2dAlgorithm.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch\btConvexConcaveCollisionAlgorithm.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch\btConvexConvexAlgorithm.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch\btConvexPlaneCollisionAlgorithm.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch\btDefaultCollisionConfiguration.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch\btEmptyCollisionAlgorithm.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch\btGhostObject.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch\btHashedSimplePairCache.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch\btInternalEdgeUtility.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch\btManifoldResult.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch\btSimulationIslandManager.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch\btSphereBoxCollisionAlgorithm.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch\btSphereSphereCollisionAlgorithm.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch\btSphereTriangleCollisionAlgorithm.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch\btUnionFind.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes\btBox2dShape.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes\btBoxShape.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes\btBvhTriangleMeshShape.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes\btCapsuleShape.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes\btCollisionMargin.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes\btCollisionShape.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes\btCompoundShape.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes\btConcaveShape.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes\btConeShape.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes\btConvex2dShape.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes\btConvexHullShape.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes\btConvexInternalShape.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes\btConvexPointCloudShape.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes\btConvexPolyhedron.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes\btConvexShape.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes\btConvexTriangleMeshShape.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes\btCylinderShape.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes\btEmptyShape.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes\btHeightfieldTerrainShape.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes\btMaterial.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes\btMinkowskiSumShape.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes\btMultiSphereShape.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes\btMultimaterialTriangleMeshShape.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes\btOptimizedBvh.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes\btPolyhedralConvexShape.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes\btScaledBvhTriangleMeshShape.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes\btShapeHull.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes\btSphereShape.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes\btStaticPlaneShape.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes\btStridingMeshInterface.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes\btTetrahedronShape.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes\btTriangleBuffer.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes\btTriangleCallback.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes\btTriangleIndexVertexArray.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes\btTriangleIndexVertexMaterialArray.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes\btTriangleInfoMap.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes\btTriangleMesh.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes\btTriangleMeshShape.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes\btTriangleShape.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes\btUniformScalingShape.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact\btBoxCollision.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact\btClipPolygon.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact\btCompoundFromGimpact.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact\btContactProcessing.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact\btGImpactBvh.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact\btGImpactCollisionAlgorithm.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact\btGImpactMassUtil.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact\btGImpactQuantizedBvh.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact\btGImpactShape.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact\btGenericPoolAllocator.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact\btGeometryOperations.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact\btQuantization.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact\btTriangleShapeEx.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact\gim_array.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact\gim_basic_geometry_operations.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact\gim_bitset.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact\gim_box_collision.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact\gim_box_set.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact\gim_clip_polygon.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact\gim_contact.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact\gim_geom_types.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact\gim_geometry.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact\gim_hash_table.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact\gim_linear_math.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact\gim_math.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact\gim_memory.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact\gim_radixsort.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact\gim_tri_collision.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\NarrowPhaseCollision\btContinuousConvexCollision.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\NarrowPhaseCollision</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\NarrowPhaseCollision\btConvexCast.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\NarrowPhaseCollision</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\NarrowPhaseCollision\btConvexPenetrationDepthSolver.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\NarrowPhaseCollision</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\NarrowPhaseCollision\btDiscreteCollisionDetectorInterface.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\NarrowPhaseCollision</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\NarrowPhaseCollision\btGjkConvexCast.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\NarrowPhaseCollision</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\NarrowPhaseCollision\btGjkEpa2.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\NarrowPhaseCollision</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\NarrowPhaseCollision\btGjkEpaPenetrationDepthSolver.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\NarrowPhaseCollision</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\NarrowPhaseCollision\btGjkPairDetector.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\NarrowPhaseCollision</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\NarrowPhaseCollision\btManifoldPoint.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\NarrowPhaseCollision</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\NarrowPhaseCollision\btMinkowskiPenetrationDepthSolver.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\NarrowPhaseCollision</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\NarrowPhaseCollision\btPersistentManifold.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\NarrowPhaseCollision</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\NarrowPhaseCollision\btPointCollector.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\NarrowPhaseCollision</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\NarrowPhaseCollision\btPolyhedralContactClipping.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\NarrowPhaseCollision</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\NarrowPhaseCollision\btRaycastCallback.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\NarrowPhaseCollision</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\NarrowPhaseCollision\btSimplexSolverInterface.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\NarrowPhaseCollision</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\NarrowPhaseCollision\btSubSimplexConvexCast.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\NarrowPhaseCollision</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletCollision\NarrowPhaseCollision\btVoronoiSimplexSolver.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\NarrowPhaseCollision</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\Character\btCharacterControllerInterface.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\Character</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\Character\btKinematicCharacterController.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\Character</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\ConstraintSolver\btConeTwistConstraint.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\ConstraintSolver</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\ConstraintSolver\btConstraintSolver.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\ConstraintSolver</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\ConstraintSolver\btContactConstraint.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\ConstraintSolver</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\ConstraintSolver\btContactSolverInfo.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\ConstraintSolver</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\ConstraintSolver\btFixedConstraint.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\ConstraintSolver</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\ConstraintSolver\btGearConstraint.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\ConstraintSolver</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\ConstraintSolver\btGeneric6DofConstraint.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\ConstraintSolver</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\ConstraintSolver\btGeneric6DofSpringConstraint.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\ConstraintSolver</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\ConstraintSolver\btHinge2Constraint.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\ConstraintSolver</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\ConstraintSolver\btHingeConstraint.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\ConstraintSolver</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\ConstraintSolver\btJacobianEntry.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\ConstraintSolver</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\ConstraintSolver\btPoint2PointConstraint.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\ConstraintSolver</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\ConstraintSolver\btSequentialImpulseConstraintSolver.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\ConstraintSolver</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\ConstraintSolver\btSliderConstraint.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\ConstraintSolver</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\ConstraintSolver\btSolve2LinearConstraint.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\ConstraintSolver</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\ConstraintSolver\btSolverBody.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\ConstraintSolver</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\ConstraintSolver\btSolverConstraint.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\ConstraintSolver</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\ConstraintSolver\btTypedConstraint.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\ConstraintSolver</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\ConstraintSolver\btUniversalConstraint.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\ConstraintSolver</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\Dynamics\btActionInterface.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\Dynamics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\Dynamics\btDiscreteDynamicsWorld.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\Dynamics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\Dynamics\btDynamicsWorld.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\Dynamics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\Dynamics\btRigidBody.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\Dynamics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\Dynamics\btSimpleDynamicsWorld.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\Dynamics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\Featherstone\btMultiBody.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\Featherstone</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\Featherstone\btMultiBodyConstraint.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\Featherstone</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\Featherstone\btMultiBodyConstraintSolver.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\Featherstone</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\Featherstone\btMultiBodyDynamicsWorld.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\Featherstone</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\Featherstone\btMultiBodyJointLimitConstraint.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\Featherstone</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\Featherstone\btMultiBodyJointMotor.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\Featherstone</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\Featherstone\btMultiBodyLink.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\Featherstone</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\Featherstone\btMultiBodyLinkCollider.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\Featherstone</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\Featherstone\btMultiBodyPoint2Point.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\Featherstone</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\Featherstone\btMultiBodySolverConstraint.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\Featherstone</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\MLCPSolvers\btDantzigLCP.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\MLCPSolvers</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\MLCPSolvers\btDantzigSolver.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\MLCPSolvers</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\MLCPSolvers\btMLCPSolver.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\MLCPSolvers</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\MLCPSolvers\btMLCPSolverInterface.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\MLCPSolvers</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\MLCPSolvers\btPATHSolver.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\MLCPSolvers</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\MLCPSolvers\btSolveProjectedGaussSeidel.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\MLCPSolvers</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\Vehicle\btRaycastVehicle.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\Vehicle</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\Vehicle\btVehicleRaycaster.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\Vehicle</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletDynamics\Vehicle\btWheelInfo.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\Vehicle</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletSoftBody\btDefaultSoftBodySolver.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletSoftBody</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletSoftBody\btSoftBody.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletSoftBody</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletSoftBody\btSoftBodyConcaveCollisionAlgorithm.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletSoftBody</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletSoftBody\btSoftBodyData.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletSoftBody</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletSoftBody\btSoftBodyHelpers.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletSoftBody</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletSoftBody\btSoftBodyInternals.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletSoftBody</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletSoftBody\btSoftBodyRigidBodyCollisionConfiguration.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletSoftBody</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletSoftBody\btSoftBodySolverVertexBuffer.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletSoftBody</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletSoftBody\btSoftBodySolvers.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletSoftBody</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletSoftBody\btSoftRigidCollisionAlgorithm.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletSoftBody</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletSoftBody\btSoftRigidDynamicsWorld.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletSoftBody</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletSoftBody\btSoftSoftCollisionAlgorithm.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletSoftBody</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\BulletSoftBody\btSparseSDF.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\BulletSoftBody</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\LinearMath\btAabbUtil2.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\LinearMath</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\LinearMath\btAlignedAllocator.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\LinearMath</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\LinearMath\btAlignedObjectArray.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\LinearMath</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\LinearMath\btConvexHull.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\LinearMath</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\LinearMath\btConvexHullComputer.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\LinearMath</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\LinearMath\btDefaultMotionState.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\LinearMath</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\LinearMath\btGeometryUtil.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\LinearMath</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\LinearMath\btGrahamScan2dConvexHull.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\LinearMath</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\LinearMath\btHashMap.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\LinearMath</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\LinearMath\btIDebugDraw.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\LinearMath</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\LinearMath\btList.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\LinearMath</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\LinearMath\btMatrix3x3.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\LinearMath</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\LinearMath\btMatrixX.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\LinearMath</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\LinearMath\btMinMax.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\LinearMath</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\LinearMath\btMotionState.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\LinearMath</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\LinearMath\btPolarDecomposition.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\LinearMath</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\LinearMath\btPoolAllocator.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\LinearMath</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\LinearMath\btQuadWord.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\LinearMath</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\LinearMath\btQuaternion.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\LinearMath</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\LinearMath\btQuickprof.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\LinearMath</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\LinearMath\btRandom.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\LinearMath</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\LinearMath\btScalar.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\LinearMath</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\LinearMath\btSerializer.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\LinearMath</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\LinearMath\btStackAlloc.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\LinearMath</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\LinearMath\btTransform.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\LinearMath</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\LinearMath\btTransformUtil.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\LinearMath</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\LinearMath\btVector3.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\LinearMath</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\MiniCL\MiniCLTask\MiniCLTask.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\MiniCL\MiniCLTask</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\MiniCL\MiniCLTaskScheduler.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\MiniCL</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\MiniCL\cl.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\MiniCL</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\MiniCL\cl_MiniCL_Defs.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\MiniCL</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\MiniCL\cl_gl.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\MiniCL</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\MiniCL\cl_platform.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\MiniCL</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\_ApplyBullet.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\_ArrayBullet.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\_IgnoreBullet.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\_RenameBullet.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\_TemplateBullet.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\btClock.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\btPrint.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\btVector2.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\vectormath\neon\boolInVec.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\vectormath\neon</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\vectormath\neon\floatInVec.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\vectormath\neon</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\vectormath\neon\mat_aos.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\vectormath\neon</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\vectormath\neon\quat_aos.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\vectormath\neon</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\vectormath\neon\vec_aos.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\vectormath\neon</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\vectormath\neon\vectormath_aos.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\vectormath\neon</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\vectormath\scalar\boolInVec.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\vectormath\scalar</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\vectormath\scalar\floatInVec.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\vectormath\scalar</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\vectormath\scalar\mat_aos.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\vectormath\scalar</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\vectormath\scalar\quat_aos.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\vectormath\scalar</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\vectormath\scalar\vec_aos.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\vectormath\scalar</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\vectormath\scalar\vectormath_aos.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\vectormath\scalar</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\vectormath\sse\boolInVec.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\vectormath\sse</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\vectormath\sse\floatInVec.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\vectormath\sse</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\vectormath\sse\mat_aos.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\vectormath\sse</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\vectormath\sse\quat_aos.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\vectormath\sse</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\vectormath\sse\vec_aos.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\vectormath\sse</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\vectormath\sse\vecidx_aos.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\vectormath\sse</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\vectormath\sse\vectormath_aos.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\vectormath\sse</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\thirdparty\bullet3\vectormath\vmInclude.swg">
+      <Filter>Source Files\swig.in\script\thirdparty\bullet3\vectormath</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6F987877-85A5-32C2-AE8F-704A84F8F2E9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in">
+      <UniqueIdentifier>{567BA97F-9E8A-30FF-B78B-42E2860BD50C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script">
+      <UniqueIdentifier>{91A2D59D-2358-3689-9FB4-9E25A57E6D62}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script\thirdparty">
+      <UniqueIdentifier>{520B9911-4A51-3CC7-9EA4-59749338275E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script\thirdparty\bullet3">
+      <UniqueIdentifier>{F30018F2-03C7-338B-9D9F-1C57DF8366F5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script\thirdparty\bullet3\BulletCollision">
+      <UniqueIdentifier>{68D31BA8-E0C3-3571-BC00-EAB53C8BBBC8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\BroadphaseCollision">
+      <UniqueIdentifier>{6E9B9289-46E2-3271-B456-30A71FAFEF73}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionDispatch">
+      <UniqueIdentifier>{6D0312A8-262E-3470-874D-DF4B428DA837}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\CollisionShapes">
+      <UniqueIdentifier>{817F277E-AFED-307B-A19B-2B5C34C95198}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\Gimpact">
+      <UniqueIdentifier>{13A1C164-7069-3F10-8E91-7FB96EAA12D8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script\thirdparty\bullet3\BulletCollision\NarrowPhaseCollision">
+      <UniqueIdentifier>{19F75888-7DCA-3854-8752-CEF1303F6406}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics">
+      <UniqueIdentifier>{BB3A0E5F-2515-3A6C-B816-7E4C9880D491}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\Character">
+      <UniqueIdentifier>{7329757E-97F4-34C5-B9A9-9FC6EA8C1A18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\ConstraintSolver">
+      <UniqueIdentifier>{B4C190B9-F719-3B97-AB00-9A1BF2CEA179}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\Dynamics">
+      <UniqueIdentifier>{CCB5E44C-87EE-3618-8BE4-688332A113CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\Featherstone">
+      <UniqueIdentifier>{F137981D-6428-313D-A2DF-B71FE905294E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\MLCPSolvers">
+      <UniqueIdentifier>{A53F2548-0290-3102-8ED9-31CE9127DE43}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script\thirdparty\bullet3\BulletDynamics\Vehicle">
+      <UniqueIdentifier>{1FDCF7BA-BAD4-3196-B62C-70064BEF6D48}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script\thirdparty\bullet3\BulletSoftBody">
+      <UniqueIdentifier>{2C836921-78B4-3CDB-ABCD-66F38CBD7321}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script\thirdparty\bullet3\LinearMath">
+      <UniqueIdentifier>{1886992A-6903-3B92-85B6-EAB558E165CA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script\thirdparty\bullet3\MiniCL">
+      <UniqueIdentifier>{F1B3AB66-E0B0-304E-9F13-A378004B7052}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script\thirdparty\bullet3\MiniCL\MiniCLTask">
+      <UniqueIdentifier>{4913A581-C25B-34CC-A339-5E6700C79B86}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script\thirdparty\bullet3\vectormath">
+      <UniqueIdentifier>{C25A3A58-4A16-3361-8079-14C270CEEF17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script\thirdparty\bullet3\vectormath\neon">
+      <UniqueIdentifier>{D7968C40-DC0A-3FA8-B079-0E7FAE6B10F8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script\thirdparty\bullet3\vectormath\scalar">
+      <UniqueIdentifier>{58F23CCA-E8C8-3997-8B35-057F37460E58}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script\thirdparty\bullet3\vectormath\sse">
+      <UniqueIdentifier>{7A6A2FE4-6A51-31EA-938B-83F51B98DBF0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

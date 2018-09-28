@@ -1,0 +1,771 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig\lua\Windows\njlicLUA_wrap.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\njlic.i">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\work\temp_jim\test_project_repo\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\AbstractActionable.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\AbstractClock.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\AbstractDecorator.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\AbstractFactoryObject.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\AbstractGeometry.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\AbstractObject.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\AbstractPhysicsBody.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\AbstractPhysicsShape.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\AbstractState.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\AbstractStateMachine.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\AbstractTransform.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\Action.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\Camera.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\Clock.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\CollisionResponse.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\Font.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\Image.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\JsonJLI.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\Node.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\NodeState.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\NodeStateMachine.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\Scene.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\SceneState.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\SceneStateMachine.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\StopWatch.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\Thread.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\Timer.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\World.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\WorldClock.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\WorldFactory.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\WorldLuaVirtualMachine.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\WorldResourceLoader.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\WorldSQLite.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\WorldSocket.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\WorldState.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\WorldStateMachine.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\Xml.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\_ApplyNJLIC.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\_ArrayNJLIC.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\_Defines.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\_IgnoreNJLIC.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\_LuaCodeNJLIC.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\_Module_Bullet.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\_RenameNJLIC.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\_TemplateNJLIC.swg">
+      <Filter>Source Files\swig.in\script\njlic</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\AbstractBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\ActionBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\CameraBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\ClockBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\CollisionResponseBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\CubeBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\FontBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\ImageBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\JsonJLIBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\LevelOfDetailBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\LightBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\NodeBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\NodeStateBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\NodeStateMachineBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\ParticleEmitterBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\PlaneBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\SceneBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\SceneStateBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\SceneStateMachineBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\SkinnerBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\SpriteFrameAtlasBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\StopWatchBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\ThreadBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\TimerBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\WorldStateBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\WorldStateMachineBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\XmlBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\graphics\ButtonHUDBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\graphics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\graphics\CheckboxHUDBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\graphics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\graphics\DropdownHUDBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\graphics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\graphics\LabelHUDBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\graphics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\graphics\MaterialBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\graphics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\graphics\MaterialPropertyBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\graphics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\graphics\ShaderProgramBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\graphics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\graphics\SliderHUDBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\graphics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\graphics\Sprite2DBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\graphics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\graphics\TextboxHUDBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\graphics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\physics\PhysicsCloseContactBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\physics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\physics\PhysicsContactBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\physics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\physics\PhysicsFieldBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\physics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\physics\PhysicsRayContactBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\physics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\physics\PhysicsWorldBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\physics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\physics\body\PhysicsBodyGhostBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\physics\body</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\physics\body\PhysicsBodyRigidBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\physics\body</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\physics\body\PhysicsBodySoftBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\physics\body</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\physics\constraint\PhysicsConstraintBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\physics\constraint</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\physics\constraint\PhysicsConstraintConeTwistBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\physics\constraint</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\physics\constraint\PhysicsConstraintFixedBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\physics\constraint</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\physics\constraint\PhysicsConstraintGeneric6DofBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\physics\constraint</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\physics\constraint\PhysicsConstraintGeneric6DofSpringBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\physics\constraint</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\physics\constraint\PhysicsConstraintHingeBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\physics\constraint</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\physics\constraint\PhysicsConstraintPointToPointBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\physics\constraint</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\physics\constraint\PhysicsConstraintSliderBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\physics\constraint</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\physics\shape\PhysicsShapeBox2DBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\physics\shape</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\physics\shape\PhysicsShapeBoxBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\physics\shape</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\physics\shape\PhysicsShapeBvhTriangleMeshBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\physics\shape</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\physics\shape\PhysicsShapeCapsuleBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\physics\shape</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\physics\shape\PhysicsShapeConeBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\physics\shape</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\physics\shape\PhysicsShapeConvexHullBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\physics\shape</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\physics\shape\PhysicsShapeConvexTriangleMeshBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\physics\shape</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\physics\shape\PhysicsShapeCylinderBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\physics\shape</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\physics\shape\PhysicsShapeHeightfieldTerrainBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\physics\shape</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\physics\shape\PhysicsShapeMultiSphereBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\physics\shape</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\physics\shape\PhysicsShapeSphereBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\physics\shape</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\physics\shape\PhysicsShapeStaticPlaneBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\physics\shape</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\sound\SoundBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\sound</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\steering\SteeringBehaviorMachineBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\steering</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\steering\SteeringBehaviorMachineDitheredBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\steering</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\steering\SteeringBehaviorMachinePrioritizedBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\steering</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\steering\SteeringBehaviorMachineWeightedBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\steering</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\steering\behavior\SteeringBehaviorAlignmentBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\steering\behavior</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\steering\behavior\SteeringBehaviorArriveBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\steering\behavior</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\steering\behavior\SteeringBehaviorBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\steering\behavior</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\steering\behavior\SteeringBehaviorCohesionBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\steering\behavior</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\steering\behavior\SteeringBehaviorEvadeBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\steering\behavior</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\steering\behavior\SteeringBehaviorFleeBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\steering\behavior</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\steering\behavior\SteeringBehaviorFollowPathBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\steering\behavior</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\steering\behavior\SteeringBehaviorHideBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\steering\behavior</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\steering\behavior\SteeringBehaviorInterposeBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\steering\behavior</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\steering\behavior\SteeringBehaviorObstacleAvoidanceBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\steering\behavior</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\steering\behavior\SteeringBehaviorOffsetPursuitBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\steering\behavior</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\steering\behavior\SteeringBehaviorPursuitBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\steering\behavior</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\steering\behavior\SteeringBehaviorSeekBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\steering\behavior</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\steering\behavior\SteeringBehaviorSeparationBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\steering\behavior</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\steering\behavior\SteeringBehaviorWallAvoidanceBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\steering\behavior</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\builders\steering\behavior\SteeringBehaviorWanderBuilder.swg">
+      <Filter>Source Files\swig.in\script\njlic\builders\steering\behavior</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\graphics\AbstractFrameBufferObject.swg">
+      <Filter>Source Files\swig.in\script\njlic\graphics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\graphics\AbstractRender.swg">
+      <Filter>Source Files\swig.in\script\njlic\graphics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\graphics\ButtonHUD.swg">
+      <Filter>Source Files\swig.in\script\njlic\graphics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\graphics\CheckboxHUD.swg">
+      <Filter>Source Files\swig.in\script\njlic\graphics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\graphics\Cube.swg">
+      <Filter>Source Files\swig.in\script\njlic\graphics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\graphics\DropdownHUD.swg">
+      <Filter>Source Files\swig.in\script\njlic\graphics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\graphics\Geometry.swg">
+      <Filter>Source Files\swig.in\script\njlic\graphics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\graphics\LabelHUD.swg">
+      <Filter>Source Files\swig.in\script\njlic\graphics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\graphics\LevelOfDetail.swg">
+      <Filter>Source Files\swig.in\script\njlic\graphics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\graphics\Light.swg">
+      <Filter>Source Files\swig.in\script\njlic\graphics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\graphics\Material.swg">
+      <Filter>Source Files\swig.in\script\njlic\graphics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\graphics\MaterialProperty.swg">
+      <Filter>Source Files\swig.in\script\njlic\graphics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\graphics\ParticleEmitter.swg">
+      <Filter>Source Files\swig.in\script\njlic\graphics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\graphics\Plane.swg">
+      <Filter>Source Files\swig.in\script\njlic\graphics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\graphics\ShaderProgram.swg">
+      <Filter>Source Files\swig.in\script\njlic\graphics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\graphics\Skinner.swg">
+      <Filter>Source Files\swig.in\script\njlic\graphics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\graphics\SliderHUD.swg">
+      <Filter>Source Files\swig.in\script\njlic\graphics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\graphics\Sprite2D.swg">
+      <Filter>Source Files\swig.in\script\njlic\graphics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\graphics\SpriteFrameAtlas.swg">
+      <Filter>Source Files\swig.in\script\njlic\graphics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\graphics\TextboxHUD.swg">
+      <Filter>Source Files\swig.in\script\njlic\graphics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\graphics\WorldDebugDrawer.swg">
+      <Filter>Source Files\swig.in\script\njlic\graphics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\graphics\WorldHUD.swg">
+      <Filter>Source Files\swig.in\script\njlic\graphics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\include\NJLICArray.swg">
+      <Filter>Source Files\swig.in\script\njlic\include</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\include\NJLICCast.swg">
+      <Filter>Source Files\swig.in\script\njlic\include</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\include\NJLICSwigOverwrite.swg">
+      <Filter>Source Files\swig.in\script\njlic\include</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\include\NJLICTypemaps.swg">
+      <Filter>Source Files\swig.in\script\njlic\include</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\physics\PhysicsCloseContact.swg">
+      <Filter>Source Files\swig.in\script\njlic\physics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\physics\PhysicsContact.swg">
+      <Filter>Source Files\swig.in\script\njlic\physics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\physics\PhysicsField.swg">
+      <Filter>Source Files\swig.in\script\njlic\physics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\physics\PhysicsRayContact.swg">
+      <Filter>Source Files\swig.in\script\njlic\physics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\physics\PhysicsWorld.swg">
+      <Filter>Source Files\swig.in\script\njlic\physics</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\physics\body\PhysicsBody.swg">
+      <Filter>Source Files\swig.in\script\njlic\physics\body</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\physics\body\PhysicsBodyGhost.swg">
+      <Filter>Source Files\swig.in\script\njlic\physics\body</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\physics\body\PhysicsBodyRigid.swg">
+      <Filter>Source Files\swig.in\script\njlic\physics\body</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\physics\body\PhysicsBodySoft.swg">
+      <Filter>Source Files\swig.in\script\njlic\physics\body</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\physics\constraint\PhysicsConstraint.swg">
+      <Filter>Source Files\swig.in\script\njlic\physics\constraint</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\physics\constraint\PhysicsConstraintConeTwist.swg">
+      <Filter>Source Files\swig.in\script\njlic\physics\constraint</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\physics\constraint\PhysicsConstraintFixed.swg">
+      <Filter>Source Files\swig.in\script\njlic\physics\constraint</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\physics\constraint\PhysicsConstraintGeneric6Dof.swg">
+      <Filter>Source Files\swig.in\script\njlic\physics\constraint</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\physics\constraint\PhysicsConstraintGeneric6DofSpring.swg">
+      <Filter>Source Files\swig.in\script\njlic\physics\constraint</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\physics\constraint\PhysicsConstraintHinge.swg">
+      <Filter>Source Files\swig.in\script\njlic\physics\constraint</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\physics\constraint\PhysicsConstraintPointToPoint.swg">
+      <Filter>Source Files\swig.in\script\njlic\physics\constraint</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\physics\constraint\PhysicsConstraintSlider.swg">
+      <Filter>Source Files\swig.in\script\njlic\physics\constraint</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\physics\shape\PhysicsShape.swg">
+      <Filter>Source Files\swig.in\script\njlic\physics\shape</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\physics\shape\PhysicsShapeBox.swg">
+      <Filter>Source Files\swig.in\script\njlic\physics\shape</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\physics\shape\PhysicsShapeBox2D.swg">
+      <Filter>Source Files\swig.in\script\njlic\physics\shape</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\physics\shape\PhysicsShapeBvhTriangleMesh.swg">
+      <Filter>Source Files\swig.in\script\njlic\physics\shape</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\physics\shape\PhysicsShapeCapsule.swg">
+      <Filter>Source Files\swig.in\script\njlic\physics\shape</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\physics\shape\PhysicsShapeCone.swg">
+      <Filter>Source Files\swig.in\script\njlic\physics\shape</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\physics\shape\PhysicsShapeConvexHull.swg">
+      <Filter>Source Files\swig.in\script\njlic\physics\shape</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\physics\shape\PhysicsShapeConvexTriangleMesh.swg">
+      <Filter>Source Files\swig.in\script\njlic\physics\shape</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\physics\shape\PhysicsShapeCylinder.swg">
+      <Filter>Source Files\swig.in\script\njlic\physics\shape</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\physics\shape\PhysicsShapeHeightfieldTerrain.swg">
+      <Filter>Source Files\swig.in\script\njlic\physics\shape</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\physics\shape\PhysicsShapeMultiSphere.swg">
+      <Filter>Source Files\swig.in\script\njlic\physics\shape</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\physics\shape\PhysicsShapeSphere.swg">
+      <Filter>Source Files\swig.in\script\njlic\physics\shape</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\physics\shape\PhysicsShapeStaticPlane.swg">
+      <Filter>Source Files\swig.in\script\njlic\physics\shape</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\platform\ColorUtil.swg">
+      <Filter>Source Files\swig.in\script\njlic\platform</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\platform\DeviceInputTime.swg">
+      <Filter>Source Files\swig.in\script\njlic\platform</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\platform\DeviceTouch.swg">
+      <Filter>Source Files\swig.in\script\njlic\platform</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\platform\File.swg">
+      <Filter>Source Files\swig.in\script\njlic\platform</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\platform\Game.swg">
+      <Filter>Source Files\swig.in\script\njlic\platform</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\platform\JLIAssetUtil.swg">
+      <Filter>Source Files\swig.in\script\njlic\platform</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\platform\JLIFileUtil.swg">
+      <Filter>Source Files\swig.in\script\njlic\platform</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\platform\Localization.swg">
+      <Filter>Source Files\swig.in\script\njlic\platform</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\platform\Log.swg">
+      <Filter>Source Files\swig.in\script\njlic\platform</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\platform\Macros.swg">
+      <Filter>Source Files\swig.in\script\njlic\platform</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\platform\Util.swg">
+      <Filter>Source Files\swig.in\script\njlic\platform</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\platform\WorldFacebook.swg">
+      <Filter>Source Files\swig.in\script\njlic\platform</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\platform\WorldInput.swg">
+      <Filter>Source Files\swig.in\script\njlic\platform</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\platform\WorldPythonVirtualMachine.swg">
+      <Filter>Source Files\swig.in\script\njlic\platform</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\platform\_ApplyPlatform.swg">
+      <Filter>Source Files\swig.in\script\njlic\platform</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\platform\_ArrayPlatform.swg">
+      <Filter>Source Files\swig.in\script\njlic\platform</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\platform\_IgnorePlatform.swg">
+      <Filter>Source Files\swig.in\script\njlic\platform</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\platform\_RenamePlatform.swg">
+      <Filter>Source Files\swig.in\script\njlic\platform</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\platform\_TemplatePlatform.swg">
+      <Filter>Source Files\swig.in\script\njlic\platform</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\sound\Sound.swg">
+      <Filter>Source Files\swig.in\script\njlic\sound</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\sound\WorldSound.swg">
+      <Filter>Source Files\swig.in\script\njlic\sound</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\steering\SteeringBehaviorMachine.swg">
+      <Filter>Source Files\swig.in\script\njlic\steering</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\steering\SteeringBehaviorMachineDithered.swg">
+      <Filter>Source Files\swig.in\script\njlic\steering</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\steering\SteeringBehaviorMachinePrioritized.swg">
+      <Filter>Source Files\swig.in\script\njlic\steering</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\steering\SteeringBehaviorMachineWeighted.swg">
+      <Filter>Source Files\swig.in\script\njlic\steering</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\steering\behavior\SteeringBehavior.swg">
+      <Filter>Source Files\swig.in\script\njlic\steering\behavior</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\steering\behavior\SteeringBehaviorAlignment.swg">
+      <Filter>Source Files\swig.in\script\njlic\steering\behavior</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\steering\behavior\SteeringBehaviorArrive.swg">
+      <Filter>Source Files\swig.in\script\njlic\steering\behavior</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\steering\behavior\SteeringBehaviorCohesion.swg">
+      <Filter>Source Files\swig.in\script\njlic\steering\behavior</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\steering\behavior\SteeringBehaviorEvade.swg">
+      <Filter>Source Files\swig.in\script\njlic\steering\behavior</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\steering\behavior\SteeringBehaviorFlee.swg">
+      <Filter>Source Files\swig.in\script\njlic\steering\behavior</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\steering\behavior\SteeringBehaviorFollowPath.swg">
+      <Filter>Source Files\swig.in\script\njlic\steering\behavior</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\steering\behavior\SteeringBehaviorHide.swg">
+      <Filter>Source Files\swig.in\script\njlic\steering\behavior</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\steering\behavior\SteeringBehaviorInterpose.swg">
+      <Filter>Source Files\swig.in\script\njlic\steering\behavior</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\steering\behavior\SteeringBehaviorObstacleAvoidance.swg">
+      <Filter>Source Files\swig.in\script\njlic\steering\behavior</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\steering\behavior\SteeringBehaviorOffsetPursuit.swg">
+      <Filter>Source Files\swig.in\script\njlic\steering\behavior</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\steering\behavior\SteeringBehaviorPursuit.swg">
+      <Filter>Source Files\swig.in\script\njlic\steering\behavior</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\steering\behavior\SteeringBehaviorSeek.swg">
+      <Filter>Source Files\swig.in\script\njlic\steering\behavior</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\steering\behavior\SteeringBehaviorSeparation.swg">
+      <Filter>Source Files\swig.in\script\njlic\steering\behavior</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\steering\behavior\SteeringBehaviorWallAvoidance.swg">
+      <Filter>Source Files\swig.in\script\njlic\steering\behavior</Filter>
+    </None>
+    <None Include="C:\work\temp_jim\test_project_repo\buildbot_windows64\njligames-njlic_engine\swig.in\script\njlic\steering\behavior\SteeringBehaviorWander.swg">
+      <Filter>Source Files\swig.in\script\njlic\steering\behavior</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6F987877-85A5-32C2-AE8F-704A84F8F2E9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in">
+      <UniqueIdentifier>{567BA97F-9E8A-30FF-B78B-42E2860BD50C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script">
+      <UniqueIdentifier>{91A2D59D-2358-3689-9FB4-9E25A57E6D62}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script\njlic">
+      <UniqueIdentifier>{E4DFCB7A-3884-3EF3-B659-B480609F7BC1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script\njlic\builders">
+      <UniqueIdentifier>{FE542BEB-ECD5-37D4-A321-1377F0348580}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script\njlic\builders\graphics">
+      <UniqueIdentifier>{81487C74-AA80-3D3C-B877-DB5EC03826CC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script\njlic\builders\physics">
+      <UniqueIdentifier>{F4C24E3E-28DC-3E6A-B3E9-9EF3ABB290B2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script\njlic\builders\physics\body">
+      <UniqueIdentifier>{ACADAEA4-9051-32A8-9746-FEBC42A325F4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script\njlic\builders\physics\constraint">
+      <UniqueIdentifier>{F4B28EF3-A6F8-32D5-9DE2-92846CA1DA8F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script\njlic\builders\physics\shape">
+      <UniqueIdentifier>{A7E7D4B8-8720-366F-B4B2-CC9D8D5A2C21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script\njlic\builders\sound">
+      <UniqueIdentifier>{99084193-B895-3BA9-A0AB-3DF5D3A9D7AC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script\njlic\builders\steering">
+      <UniqueIdentifier>{D5915443-352E-359A-A113-2F3539B6A162}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script\njlic\builders\steering\behavior">
+      <UniqueIdentifier>{8EBC68B1-361C-3E23-9961-5AF383CF6DEC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script\njlic\graphics">
+      <UniqueIdentifier>{D7E8C06D-3D00-35F1-98DE-851B048D16CA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script\njlic\include">
+      <UniqueIdentifier>{33998512-85B2-3BAE-AF54-14C3EC25A2C4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script\njlic\physics">
+      <UniqueIdentifier>{D086F1EB-58CD-314E-AA7E-ADF516C264F9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script\njlic\physics\body">
+      <UniqueIdentifier>{168A9657-8845-3003-992F-F9CA77EA31E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script\njlic\physics\constraint">
+      <UniqueIdentifier>{9269BD5C-0A53-3436-8C59-C0CE4B98CDD8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script\njlic\physics\shape">
+      <UniqueIdentifier>{78B48A81-7F0F-3B8F-BC58-5C054BC023E4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script\njlic\platform">
+      <UniqueIdentifier>{8EBE7314-A579-3A94-9B9F-AD9B6FCBF731}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script\njlic\sound">
+      <UniqueIdentifier>{987ABE29-F064-3BFC-A7CC-44175639BDBA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script\njlic\steering">
+      <UniqueIdentifier>{36E8D804-DB23-3862-BBD9-5F685A797546}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\swig.in\script\njlic\steering\behavior">
+      <UniqueIdentifier>{40593457-40EA-3D50-8DE0-6A2C61CF5828}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
